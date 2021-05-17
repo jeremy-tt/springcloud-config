@@ -1,3 +1,2 @@
-
-111
-dev.cofig
+config: 
+   info: "我是dev下的config"

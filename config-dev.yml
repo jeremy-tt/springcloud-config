@@ -1,3 +1,2 @@
-
-111
-config-dev main
+config:
+  info:"maser.."
